@@ -19,7 +19,7 @@ hist_fancy(x = rnorm(100, 1),
            xlab = "Variables")
 
 ```
-<img src="./images/DoubleHist.png" height="500px" width="500px" >
+<img src="./images/DoubleHist.png">
 
 ### qqplot_fancy
 
