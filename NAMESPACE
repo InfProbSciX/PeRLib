@@ -1,0 +1,11 @@
+
+export(clplot)
+export(ggcols)
+export(is.odd)
+export(is.even)
+
+export(hist_fancy)
+export(qqplot_fancy)
+
+export(ParseTemplate)
+export(SSMet)

@@ -1,0 +1,12 @@
+Package: perlib
+Type: Package
+Title: Personal R Library
+Version: 1.0.0
+Author: Aditya Ravuri
+Maintainer: Aditya Ravuri <aditya.ravuri@gmail.com>
+Description: This package includes my fancy implementations 
+    and my simulation engine.
+License: Creative Commons Attribution 4.0 International
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
